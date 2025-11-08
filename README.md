@@ -85,5 +85,4 @@ Provides professional contact info — email, phone, and location.
 Author: Yashvardhan Shah
 📍 Vellore, Tamil Nadu
 📧 yashvardhanshah100@gmail.com
-
-🔗 GitHub Profile
+GITHUB -> https://github.com/yashvardhanshah
